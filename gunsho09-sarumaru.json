@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sarumaru",
  "yomi": "さるまるだゆうしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "未詳",
+  "author": "猿丸大夫（伝）",
+  "desc": "三十六歌仙の一人、猿丸大夫の作と伝える小さな集。収める歌の多くは『万葉集』や『古今和歌集』のよみ人知らずの歌である。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -599,6 +604,6 @@
   "poems": 49,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
